@@ -167,4 +167,15 @@ with open(file_to_load) as election_data:
 
 ## Election-Audit Summary: 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+### Business Proposal 
+
+This election analysis serves as an example of the capabilities of the python script put together with the team effort between your employee Tom and Jorge Solis. We can appreciate that the script was able to evaluate more than 300,000 votes for a whole Pressing in seconds. This will allow an efficient audit analysis for more elections. As it can be appreciated in the images from our code, we can apply this to more states and replicate the report or create a new one by adding information. 
+
+Please feel free to contact us for more information. 
+
+It was a pleasure working you. 
+
+We Love Voting!! 
+
+｡^‿^｡
+
